@@ -12,7 +12,7 @@ public class Test {
         String actualTitle = driver.getTitle();
 
         if (actualTitle.equals(expectedTitle)) {
-            System.out.println("Test Case Passed");
+            System.out.println("Test Cases Passed");
 
         } else {
 
